@@ -1,0 +1,22 @@
+{
+  "name": "realtime-track",
+  "version": "1.0.0",
+  "description": "A real-time tracking application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "real-time",
+    "tracking",
+    "application"
+  ],
+  "author": "Sanskruti",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.18.2",
+    "socket.io": "^4.0.1"
+  }
+}
